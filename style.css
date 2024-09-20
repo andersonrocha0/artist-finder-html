@@ -55,6 +55,8 @@ body {
 .bg {
     position: absolute;
     z-index: -1;
+    height: 1192px;
+    width: 100%;
 }
 
 /* HEADER */
