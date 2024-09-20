@@ -17,11 +17,11 @@
 
 ## Deploy Status
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/11f8c340-0ad6-48dd-9462-9d14e539d3e8/deploy-status)](https://app.netlify.com/sites/effortless-chaja-e652c6/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/cbad92dd-3344-4d8c-88dc-916de98c4255/deploy-status)](https://app.netlify.com/sites/artist-finder-andersonrocha0/deploys)
 
 ## Project Overview
 
-You can have a look here: https://effortless-chaja-e652c6.netlify.app/
+You can have a look here: https://artist-finder-andersonrocha0.netlify.app/
 
 This project is inspired by a course that guided the learning process. Check it out [here](https://youtu.be/uDkjZ-UjgX0?si=wPdri7ZnP89dN5gb).
 
